@@ -348,8 +348,8 @@ const PROJECTS = [
     monogram: "CA",
     desc: "A keyboard-friendly calculator built to practice operator precedence and DOM state.",
     tech: ["JavaScript", "HTML", "CSS"],
-    github: "https://github.com/muhammadwajeeh/calculator",
-    demo: "#",
+    github: "https://github.com/wajeeh786m/calculator",
+    demo: "https://wajeeh786m.github.io/calculator/",
   },
   {
     name: "Expense Tracker",
