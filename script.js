@@ -491,7 +491,7 @@ function renderProjects() {
    needs GitHub's authenticated GraphQL API, so it's rendered
    as a decorative pattern instead of fabricated numbers.
    ========================================================= */
-const GITHUB_USERNAME = "muhammadwajeeh";
+const GITHUB_USERNAME = "wajeeh786m";
 
 async function initGitHubStats() {
   renderHeatmapPattern();
