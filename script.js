@@ -321,8 +321,8 @@ const PROJECTS = [
     monogram: "PW",
     desc: "This site — a hand-built, no-framework portfolio focused on clarity and performance.",
     tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/muhammadwajeeh/portfolio-website",
-    demo: "#home",
+    github: "https://github.com/wajeeh786m/portfolio-website",
+    demo: "https://wajeeh786m.github.io/portfolio-website/",
   },
   {
     name: "Weather App",
@@ -330,8 +330,8 @@ const PROJECTS = [
     monogram: "WX",
     desc: "Looks up current conditions and a short forecast for any city using a public weather API.",
     tech: ["JavaScript", "REST API", "CSS"],
-    github: "https://github.com/muhammadwajeeh/weather-app",
-    demo: "#",
+    github: "https://github.com/wajeeh786m/weather-app",
+    demo: "https://wajeeh786m.github.io/weather-app/",
   },
   {
     name: "Task Manager",
