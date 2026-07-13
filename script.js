@@ -339,8 +339,8 @@ const PROJECTS = [
     monogram: "TM",
     desc: "A to-do list with categories, due dates, and persistent storage in the browser.",
     tech: ["JavaScript", "LocalStorage", "CSS"],
-    github: "https://github.com/muhammadwajeeh/task-manager",
-    demo: "#",
+    github: "https://github.com/wajeeh786m/task-manager",
+    demo: "https://wajeeh786m.github.io/task-manager/",
   },
   {
     name: "Calculator",
