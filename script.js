@@ -357,8 +357,8 @@ const PROJECTS = [
     monogram: "EX",
     desc: "A command-line tool for logging expenses by category and summarizing monthly spend.",
     tech: ["Python", "SQLite"],
-    github: "https://github.com/muhammadwajeeh/expense-tracker",
-    demo: "#",
+    github: "https://github.com/wajeeh786m/expense-tracker",
+    demo: "https://wajeeh786m.github.io/expense-tracker/",
   },
   {
     name: "Password Generator",
